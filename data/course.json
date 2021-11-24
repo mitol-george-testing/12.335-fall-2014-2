@@ -1,0 +1,34 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Atmospheric Science"
+    ],
+    [
+      "Science",
+      "Chemistry"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "b531928d-7a85-1672-bb22-f0ce26134f07",
+      "82356aa7-1b69-5d8e-04e4-065a7b1b7ad5",
+      "b7988d4b-fb9d-0495-d003-90810d9b2723"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Experimental Atmospheric Chemistry",
+  "course_description": "This course provides an introduction to the atmospheric chemistry involved in climate change, air pollution and biogeochemical cycles using a combination of hands-on laboratory, field studies, and simple computer models. Lectures will be accompanied by field trips to collect air samples for the analysis of gases, aerosols and clouds by the students.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "12.835",
+  "primary_course_number": "12.335",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Activity Assignments"
+  ],
+  "title": "Course Metadata"
+}
